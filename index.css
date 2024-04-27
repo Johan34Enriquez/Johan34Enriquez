@@ -1,0 +1,80 @@
+.boton{
+    background-color: orange;
+    height: 45px;
+    width: 45px;
+    font-size: 25px;
+    border-radius: 100px;
+    border: 2px solid;
+    transition: all 0.9s;
+    color: aliceblue;
+}
+.boton-2{
+    background-color:rgb(44, 255, 55);
+    height: 25px;
+    width: 25px;
+    font-size: 10px;
+    border-radius: 50px;
+    border: 2px solid;
+    transition: all 0.9s;
+    color: aliceblue;
+}
+.texto{
+   text-align:justify; 
+   width: 600px;
+
+}
+
+.formulario {
+    position: absolute;
+    top: 10%;
+    left: 65%;
+    transform: translate(50%,30);
+    width: 400px;
+    background-color: rgb(161, 255, 255);
+    border-radius: 10px;
+}
+
+
+.formulario h2 {
+    text-align: center;
+    padding: 0 0 10px;
+    border-bottom: 1px solid white;
+}
+.formulario form {
+    padding: 0 20px;
+    box-sizing: border-box;
+}
+
+
+.formulario-2 {
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(30%,30);
+    width: 400px;
+    background-color: rgb(161, 255, 255);
+    border-radius: 10px;
+}
+
+
+.formulario-2 h2 {
+    text-align: center;
+    padding: 0 0 10px;
+    border-bottom: 1px solid white;
+}
+.formulario-2 form {
+    padding: 0 20px;
+    box-sizing: border-box;
+}
+.star {
+    color: orange;
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    position: relative;
+    top: 5px;
+
+
+
+}
